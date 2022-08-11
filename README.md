@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephen15615
-- 👀 I’m interested in ... frontend web development
+- 👀 I’m interested in ... frontend web development and software engineering
 - 🌱 I’m currently learning ... HTML CSS and JavaScript
 - 💞️ I’m looking to collaborate on ... frontend development
 - 📫 How to reach me ... 08036577937 WhatsApp
